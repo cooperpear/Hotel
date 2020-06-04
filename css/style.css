@@ -52,9 +52,31 @@ p {
     cursor: pointer;
 }
 
+
+
+.btn-light{
+    background: #f4f4f4;
+    color: #333;
+}
+
 .btn:hover{
     background: #f7c08a;
     color: #333;
+}
+
+.bg-dark{
+    background: #333;
+    color: white;
+}
+
+.bg-light{
+    background: #f4f4f4;
+    color: #333;
+}
+
+.bg-primary{
+    background: #333;
+    color: #f7c08a;
 }
 
 /* Navbar */ 
@@ -117,7 +139,27 @@ p {
     line-height: 1.7em;
 }
 
+/* Home Info */
 
+#home-info{
+    height: 400px;
+}
+
+#home-info .info-img {
+    float: left;
+    width: 50%;
+    background: url('../img/photo-1.jpg') no-repeat;
+    min-height: 100%;
+}
+
+#home-info .info-content {
+    float: right;
+    width: 50%;
+    height: 100%;
+    text-align: center;
+    padding: 50px 30px;
+    overflow: hidden;
+}
 
 
 
