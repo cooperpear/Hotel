@@ -52,8 +52,6 @@ p {
     cursor: pointer;
 }
 
-
-
 .btn-light{
     background: #f4f4f4;
     color: #333;
@@ -77,6 +75,10 @@ p {
 .bg-primary{
     color: #333;
     background: #f7c08a;
+}
+
+.clr {
+    clear: both;
 }
 
 /* Navbar */ 
@@ -176,4 +178,12 @@ p {
 
 .box i {
     margin-bottom: 10px;
+}
+
+/* Footer */
+#main-footer {
+    text-align: center;
+    background: #444;
+    color: #fff;
+    padding: 20px;
 }
