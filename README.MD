@@ -6,7 +6,7 @@ Accessibility was a priority when implementing font, design, and color scheme.
 https://cooperpear.github.io/Hotel/
 
 ## Built With
-HTML5
+HTML5 <br>
 CSS3
 
 ## Process
