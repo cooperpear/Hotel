@@ -19,6 +19,7 @@ This basic template could be expanded to include more pages. It also needs a bac
 Cooper Pearson
 
 ## Screenshots
+![Home Page](https://github.com/cooperpear/Hotel/blob/master/screencapture-cooperpear-github-io-Hotel-2020-06-05-13_27_47.png?raw=true "Home Page")
 
 ## Contributing
 Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
